@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/be-millionaire/precache-manifest.f43d216c049f98459fb74419bfe7cb65.js"
+  "/be-millionaire/precache-manifest.d83202f1d895327b28599ebce7a62b84.js"
 );
 
 workbox.clientsClaim();
