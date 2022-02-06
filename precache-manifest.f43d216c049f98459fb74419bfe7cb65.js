@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1ae82b68a72af85bf971",
-    "url": "/be-millionaire/static/css/main.49153065.chunk.css"
+    "revision": "476c22f5840ead0b9c7d",
+    "url": "/be-millionaire/static/css/main.b34ade2f.chunk.css"
   },
   {
-    "revision": "1ae82b68a72af85bf971",
-    "url": "/be-millionaire/static/js/main.1ae82b68.chunk.js"
+    "revision": "476c22f5840ead0b9c7d",
+    "url": "/be-millionaire/static/js/main.476c22f5.chunk.js"
   },
   {
     "revision": "793cac1d4c2f5707c35d",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/be-millionaire/static/media/hand.9691cd37.png"
   },
   {
-    "revision": "947a0993ad7ee7a0710f56c96791adea",
+    "revision": "efc3f93fc38349e53368a12e8cc1576a",
     "url": "/be-millionaire/index.html"
   }
 ];
